@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is German
+#### I am junior frontend-developer
 
-<!--
-**tonikchronik/tonikchronik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning JavaScript and looking for experience in commercial projects. Student in Skillbox and Rolling Scopes School
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JS / Figma / GIT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+
+- **E-mail:** vyrodov.german@gmail.com
+- **Telegram:** @tonikchronik 
+- [LinkedIn](https://www.linkedin.com/in/german-vyrodov-a4982b52/)
+
