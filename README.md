@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is German
-#### I am junior frontend-developer
+#### I am a junior frontend-developer
 
 🌱 I’m currently learning JavaScript and looking for experience in commercial projects. Student in Skillbox and Rolling Scopes School
 
