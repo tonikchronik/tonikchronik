@@ -3,7 +3,7 @@
 
 🌱 I’m currently learning JavaScript and looking for experience in commercial projects. Student in Skillbox and Rolling Scopes School
 
-Skills: HTML / CSS / JS / Figma / GIT
+Skills: HTML5 / CSS3 / SASS / JavaScript / Figma / GIT / Node.js / ES6 /  
 
 📫 How to reach me:
 
